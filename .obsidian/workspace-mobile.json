@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "IT/Прога/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "IT/Прога/README.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "IT/Прога/README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "IT/Прога/README.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -184,14 +184,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fa932187e96d495",
+  "active": "6ca7c4740316f49a",
   "lastOpenFiles": [
+    "README.md",
+    "Математика/ДопАлгем/README.md",
+    "Математика/ДопАлгем/Практика",
+    "Математика/ДопАлгем/Лекция",
+    "Математика/ДопАлгем",
     "Математика/МатГем/README.md",
     "Математика/Алгем/README.md",
     "Математика/Алгем/Практика",
     "Математика/Алгем/Лекция",
     "Математика/Алгем",
-    "README.md",
     "Без названия.md",
     "Математика/Дискретка/README.md"
   ]
