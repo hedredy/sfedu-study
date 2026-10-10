@@ -152,15 +152,25 @@
           "state": {
             "file": "README.md",
             "followCursor": true,
-            "showSearch": true,
+            "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Структура"
         }
+      },
+      {
+        "id": "f776f9e47e7e9fea",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fa932187e96d495",
+  "active": "6ca7c4740316f49a",
   "lastOpenFiles": [
     "Без названия.md",
     "README.md",
