@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Прога/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ca7c4740316f49a",
+  "active": "3fa932187e96d495",
   "lastOpenFiles": [
+    "IT/Прога/README.md",
     "README.md",
     "Математика/ДопАлгем/README.md",
     "Математика/ДопАлгем/Практика",
