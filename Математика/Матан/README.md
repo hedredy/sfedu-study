@@ -1,1 +1,8 @@
-**Математический анализ**
+# Матан
+
+```dataview
+TABLE type as "Тип", date as "Дата", status as "Статус", tags as "Теги"
+FROM "Математика/Матан"
+WHERE file.name != "README"
+SORT date desc
+```
