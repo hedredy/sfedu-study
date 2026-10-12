@@ -11,14 +11,10 @@
             "id": "3fa932187e96d495",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общеобразовательные/Англ/Unit 1/Занятие - 12.10.2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Занятие - 12.10.2026"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -184,8 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fa932187e96d495",
+  "active": "f776f9e47e7e9fea",
   "lastOpenFiles": [
+    "_templates/Шаблон_ДЗ.md",
+    "_templates/Шаблон_Практика.md",
+    "_templates/Шаблон_Лекция.md",
+    "_templates",
+    "Общеобразовательные/Англ/2026-10-12 - Занятие.md",
+    "Математика/Дискретка/2026-10-10 - Лекция.md",
     "Общеобразовательные/Англ/Unit 1/Без названия.canvas",
     "Общеобразовательные/Англ/Unit 1/Занятие - 12.10.2026.md",
     "Общеобразовательные/Англ/README.md",
