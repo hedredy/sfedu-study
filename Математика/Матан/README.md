@@ -1,8 +1,8 @@
 # Матан
 
 ```dataview
-TABLE type as "Тип", date as "Дата", status as "Статус", tags as "Теги"
+LIST
 FROM "Математика/Матан"
 WHERE file.name != "README"
-SORT date desc
+SORT file.ctime desc
 ```

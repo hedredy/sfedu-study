@@ -1,8 +1,8 @@
 # Прога
 
 ```dataview
-TABLE type as "Тип", date as "Дата", status as "Статус", tags as "Теги"
+LIST
 FROM "IT/Прога"
 WHERE file.name != "README"
-SORT date desc
+SORT file.ctime desc
 ```

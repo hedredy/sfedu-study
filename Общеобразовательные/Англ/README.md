@@ -1,8 +1,8 @@
 # Англ
 
 ```dataview
-TABLE type as "Тип", date as "Дата", status as "Статус", tags as "Теги"
+LIST
 FROM "Общеобразовательные/Англ"
 WHERE file.name != "README"
-SORT date desc
+SORT file.ctime desc
 ```
